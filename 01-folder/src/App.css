@@ -1,0 +1,20 @@
+/* Universal Reset */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic Body Styles */
+body {
+    font-family: Arial, sans-serif; /* Example font-family */
+    line-height: 1.6;
+    color: #333; /* Example text color */
+    background-color: #f4f4f4; /* Example background color */
+}
+
+/* HTML and Body Height/Width */
+html, body {
+    height: 100%;
+    width: 100%;
+}
